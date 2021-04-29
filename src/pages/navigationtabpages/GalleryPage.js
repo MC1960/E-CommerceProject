@@ -14,7 +14,6 @@ export const GalleryPage = () => {
      
 }       
     return (
-        <div class= "gallery">
             <button onClick = {()=> fetchData()}>Api Call</button>
             <button onClick ={() => console.log(data)}>check my state</button>
             <input placeholder='search for character ID'
