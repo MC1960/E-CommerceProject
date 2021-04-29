@@ -1,0 +1,8 @@
+.headline{
+    color: rgb(32, 32, 32);
+    grid-column: 7/17;
+    grid-row: 2/1;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
